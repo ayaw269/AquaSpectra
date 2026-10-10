@@ -1,0 +1,4 @@
+Method,Selected pixels,Overlap with baseline,Jaccard similarity,Mean NDCI change
+NDCI top-10% baseline,344,344,1.0,0.16224
+Isolation Forest,344,155,0.2908,0.11175
+K-means (higher-change cluster),1286,344,0.2675,0.13088
